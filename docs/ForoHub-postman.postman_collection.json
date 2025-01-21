@@ -1,0 +1,50 @@
+{
+	"info": {
+		"_postman_id": "f30f0bb0-6d7a-4cff-b0ae-e77b9e128fa6",
+		"name": "ForoHub-postman",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json",
+		"_exporter_id": "38879651"
+	},
+	"item": [
+		{
+			"name": "Crear un nuevo tópico",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Mostrar todos los tópicos creados",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Mostrar un tópico específico",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Actualizar un tópico",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		},
+		{
+			"name": "Eliminar un tópico",
+			"request": {
+				"method": "GET",
+				"header": []
+			},
+			"response": []
+		}
+	]
+}
